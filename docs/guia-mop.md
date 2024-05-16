@@ -37,4 +37,4 @@ Se debe ingresar la versión actual del componente que se encuentra instalado en
 La versión del componente que se encuentra actualmente instalada en producción y la cual sera reemplazada por la nueva versión una vez instalada.
 
 ### Archivos Asociados:
-En caso de que sea aplicable, se recomienda indicar qué archivos asociados al componente mencionado están siendo modificados.
+En caso de que sea aplicable, se recomienda indicar qué archivos asociados al componente mencionado están siendo modificados, se refiere a la extension del archivo de despliegue (por ejemplo: .jar, .snapp, etc) o el nombre del archivo individual en el caso que solo sean unos pocos archivos (por ejemplo: .sh, .conf, etc).
