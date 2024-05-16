@@ -19,7 +19,7 @@ restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
 El nombre del componente que se esta modificando en este cambio.
 
 ### Tipo Componente:
-El tipo de componente que se esta modificando, pudiendo ser una API, script, configuración, pantalla, etc.
+El tipo de componente que se esta modificando, pudiendo ser una API, script, configuración, pantalla, flujo, plataforma, aplicacion, etc.
 
 ### Plataforma:
 La plataforma a la cual pertenece el componente a modificar, ya sea Service Now, APIM, Blue Planet BPI, Blue Planet UAA, etc.
