@@ -9,11 +9,8 @@ Esta nueva sección tiene el objetivo de registrar los componentes y archivos qu
 modificados con el cambio, para poder hacer un seguimiento de los cambios y la evolución de los
 mismos.
 
-## Ejemplo:
-Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
-restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
-
-![Componentes](../img/componentes-ejemplo.png)
+## Campos Solicitados:
+En el mop se van a solicitar los siguientes campos para ser llenados de acuerdo a los componentes y entregables afectados con el cambio.
 
 ### Componente:
 El nombre del componente que se esta modificando en este cambio.
@@ -38,3 +35,21 @@ La versión del componente que se encuentra actualmente instalada en producción
 
 ### Archivos Asociados:
 En caso de que sea aplicable, se recomienda indicar qué archivos asociados al componente mencionado están siendo modificados, se refiere a la extension del archivo de despliegue (por ejemplo: .jar, .snapp, etc) o el nombre del archivo individual en el caso que solo sean unos pocos archivos (por ejemplo: .sh, .conf, etc).
+
+## Ejemplo 1:
+Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
+restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
+
+![Componentes](../img/componentes-ejemplo.png)
+
+## Ejemplo 2:
+Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
+restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
+
+![Componentes](../img/Ejemplo-2-RM.png)
+
+## Ejemplo 3:
+Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
+restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
+
+![Componentes](../img/Ejemplo-3-RM.png)
