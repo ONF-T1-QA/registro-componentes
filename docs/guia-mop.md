@@ -43,13 +43,11 @@ restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
 ![Componentes](../img/componentes-ejemplo.png)
 
 ## Ejemplo 2:
-Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
-restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
+Vamos a pasar una funcionalidad nueva, un script y una configuración (No Code), dentro de la plataforma BluePlanet UAA, en este caso la definición dentro del mop quedaría así:
 
 ![Componentes](../img/Ejemplo-2-RM.png)
 
 ## Ejemplo 3:
-Vamos a pasar 5 APIs a QA en un documento MOP, donde dos de ellas son nuevas y las tres
-restantes ya existen en ambiente de QA, como se vería esto en nuestro mop.
+Para el caso de la actualización de una plataforma, tomemos como ejemplo el upgrade de versión de ServiceNow, la cual se documentaria de la siguiente forma.
 
 ![Componentes](../img/Ejemplo-3-RM.png)
