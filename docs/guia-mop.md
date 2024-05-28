@@ -33,7 +33,7 @@ Se debe ingresar la versión actual del componente que se encuentra instalado en
 ### Version Prod:
 La versión del componente que se encuentra actualmente instalada en producción y la cual sera reemplazada por la nueva versión una vez instalada.
 
-## MOP Asociado:
+### MOP Asociado:
 Este campo se usa principalmente para los MOPs de paso a produccion, y se utiliza para indicar en que MOP de solicitud de instalacion en ambiente de QA se pasaron los componentes que ahora se solicita pasar a produccion.
 
 ### Archivos Asociados:
